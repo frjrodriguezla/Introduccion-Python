@@ -1,4 +1,4 @@
-
+originpullgit
 print('Hola mundo')
 print('Hola mundo')
 
@@ -9,6 +9,6 @@ for i in range(1:10):
 for i in range(0,3):
     print(i)
 
-print("a lalala long, a lalala long, a lalala long, a lalala long")
+print("no mas lalala longs")
 
 print('Bola de nuevo')
