@@ -2,6 +2,7 @@ originpullgit
 print('Hola mundo')
 print('Hola mundo')
 print('Que pasa juanito')
+print('Que pasa mi pez')
 
 for i in range(1:10):
     a=i*2
