@@ -1,0 +1,39 @@
+Calendario WIKI 
+----------
+__Todo con ejemplos__ 
+
+**Python Basico
+-----------
+
+
+---> 1
+Tipos de variables en python 
+
+La idea seria hablar de los tipos de variables y sus operaciones y conflictos. 
+
+**Strings -> F **
+**Boolinos -> j **
+
+---> 2
+Funciones.
+
+1) def ... 
+1,1) lamnda
+1,2) mapp 
+2) class ..  
+
+Ejemplo
+---------
+def Suma(a,b):
+	return  a+b
+
+suma(2,3)= lamnda a,b : a+b
+
+lista= [[1,2],[2,3]]
+list(map(suma,lista))
+
+---> 3
+Hablar sobre las siguientes librerias
+
+- import csv 
+- import numpy 
